@@ -1,6 +1,6 @@
-zos bug example
+# zos bug example
 
-> [ZepellinOS] bug report ([issue #]())
+> [ZepellinOS](https://github.com/zeppelinos/zos) bug report ([issue #809](https://github.com/zeppelinos/zos/issues/809))
 
 ## Instructions
 
